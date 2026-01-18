@@ -145,7 +145,9 @@ Live website preview is shown instantly
 ## 📸 Example Prompt
 <img width="1916" height="1012" alt="Image" src="https://github.com/user-attachments/assets/e6168c22-912d-4b48-ac45-463386d5ec94" />
 <img width="1818" height="957" alt="Image" src="https://github.com/user-attachments/assets/f2a0eba4-ab02-4766-9576-1a8d669607a6" />
-## Download code
+
+###  Download code
+
 <img width="1777" height="712" alt="Image" src="https://github.com/user-attachments/assets/3ebfa70f-3b6f-41a9-b2e0-977cc15ccf64" />
 <img width="1564" height="372" alt="Image" src="https://github.com/user-attachments/assets/dba13ab6-3b07-47ad-9a98-f127a31686ec" />
 
