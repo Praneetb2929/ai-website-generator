@@ -43,9 +43,10 @@ qwen2.5:1.5b (lightweight, fast, local)
 
 ai-website-generator/
 │
-
 ├── backend/
+
 │   ├── main.py
+
 │   ├── ollama_engine.py
 
 │   ├── utils.py
@@ -81,98 +82,46 @@ Pull the model:
 ollama pull qwen2.5:1.5b
 
 2️⃣ Backend Setup (FastAPI)
+
+  ```bash
 cd backend
 python -m venv venv
 venv\Scripts\activate   # Windows
 pip install -r requirements.txt
-
+ ```
 
 Start backend:
-
+  ```bash
 uvicorn main:app --reload
-
+  ```
 
 Backend runs at:
 
+  ```bash
 http://127.0.0.1:8000
-
+ ```
 
 Swagger Docs:
 
+ ```bash
 http://127.0.0.1:8000/docs
+ ```
 
 3️⃣ Frontend Setup (Next.js)
+
+  ```bash
 cd frontend
 npm install
 npm run dev
-
+ ```
 
 Frontend runs at:
 
+  ```bash
 http://localhost:3000
+ ```
 
 ## 🧪 How It Works
-
-User enters a prompt (e.g. “Create a portfolio website for a photographer with dark theme”)
-
-Frontend sends prompt to FastAPI
-
-FastAPI calls Ollama locally
-
-AI generates:
-
-HTML
-
-CSS
-
-JavaScript
-
-Code is parsed and injected into an iframe
-
-Live website preview is shown instantly
-
-⚙️ Setup Instructions
-1️⃣ Install Ollama
-
-Download and install Ollama from:
-👉 https://ollama.com
-
-Pull the model:
-
-ollama pull qwen2.5:1.5b
-
-2️⃣ Backend Setup (FastAPI)
-cd backend
-python -m venv venv
-venv\Scripts\activate   # Windows
-pip install -r requirements.txt
-
-
-Start backend:
-
-uvicorn main:app --reload
-
-
-Backend runs at:
-
-http://127.0.0.1:8000
-
-
-Swagger Docs:
-
-http://127.0.0.1:8000/docs
-
-3️⃣ Frontend Setup (Next.js)
-cd frontend
-npm install
-npm run dev
-
-
-Frontend runs at:
-
-http://localhost:3000
-
-🧪 How It Works
 
 User enters a prompt (e.g. “Create a portfolio website for a photographer with dark theme”)
 
