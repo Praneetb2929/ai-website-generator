@@ -45,9 +45,7 @@ ai-website-generator/
 │
 
 ├── backend/
-
 │   ├── main.py
-
 │   ├── ollama_engine.py
 
 │   ├── utils.py
