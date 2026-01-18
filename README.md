@@ -43,31 +43,32 @@ qwen2.5:1.5b (lightweight, fast, local)
 
 ai-website-generator/
 │
+
 ├── backend/
 
-│   ├── main.py
+│ ├── main.py
 
-│   ├── ollama_engine.py
+│ ├── ollama_engine.py
 
-│   ├── utils.py
+│ ├── utils.py
 
-│   ├── requirements.txt
+│ ├── requirements.txt
 
 │   └── venv/
 
 ├── frontend/
 
-│   ├── app/
+│ ├── app/
 
-│   │   ├── page.tsx
+│   │ ├── page.tsx
 
-│   │   ├── layout.tsx
+│   │ ├── layout.tsx
 
-│   │   └── globals.css
+│   │ └── globals.css
 
-│   ├── public/
+│ ├── public/
 
-│   └── package.json
+│  └── package.json
 
 └── README.md
 
