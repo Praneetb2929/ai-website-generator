@@ -43,6 +43,7 @@ qwen2.5:1.5b (lightweight, fast, local)
 
 ai-website-generator/
 │
+
 ├── backend/
 
 │   ├── main.py
@@ -54,7 +55,7 @@ ai-website-generator/
 │   ├── requirements.txt
 
 │   └── venv/
-│
+
 ├── frontend/
 
 │   ├── app/
@@ -68,7 +69,7 @@ ai-website-generator/
 │   ├── public/
 
 │   └── package.json
-│
+
 └── README.md
 
 ## ⚙️ Setup Instructions
