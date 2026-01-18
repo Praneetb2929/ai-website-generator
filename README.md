@@ -143,6 +143,8 @@ Live website preview is shown instantly
 
 
 ## 📸 Example Prompt
+<img width="1916" height="1012" alt="Image" src="https://github.com/user-attachments/assets/e6168c22-912d-4b48-ac45-463386d5ec94" />
+<img width="1818" height="957" alt="Image" src="https://github.com/user-attachments/assets/f2a0eba4-ab02-4766-9576-1a8d669607a6" />
 
 
 ## 🧠 Why Ollama?
