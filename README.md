@@ -5,11 +5,17 @@ An AI-powered website generator that converts natural language prompts into full
 ## ✨ Features
 
 🧠 AI-powered website generation from text prompts
+
 🎨 Generates HTML, CSS, and JavaScript
+
 🖥️ Live preview inside the browser using iframe
+
 🌙 Supports dark/light themes
+
 🔒 Runs 100% locally using Ollama (no OpenAI / Gemini)
+
 ⚡ FastAPI backend + Next.js frontend
+
 📱 Responsive design output
 
 ## 🛠 Tech Stack
@@ -38,18 +44,29 @@ qwen2.5:1.5b (lightweight, fast, local)
 ai-website-generator/
 │
 ├── backend/
+
 │   ├── main.py
+
 │   ├── ollama_engine.py
+
 │   ├── utils.py
+
 │   ├── requirements.txt
+
 │   └── venv/
 │
 ├── frontend/
+
 │   ├── app/
+
 │   │   ├── page.tsx
+
 │   │   ├── layout.tsx
+
 │   │   └── globals.css
+
 │   ├── public/
+
 │   └── package.json
 │
 └── README.md
