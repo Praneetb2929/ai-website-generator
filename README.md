@@ -5,17 +5,11 @@ An AI-powered website generator that converts natural language prompts into full
 ## ✨ Features
 
 🧠 AI-powered website generation from text prompts
-
 🎨 Generates HTML, CSS, and JavaScript
-
 🖥️ Live preview inside the browser using iframe
-
 🌙 Supports dark/light themes
-
 🔒 Runs 100% locally using Ollama (no OpenAI / Gemini)
-
 ⚡ FastAPI backend + Next.js frontend
-
 📱 Responsive design output
 
 ## 🛠 Tech Stack
