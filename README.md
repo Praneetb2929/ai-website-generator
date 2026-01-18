@@ -19,7 +19,7 @@ An AI-powered website generator that converts natural language prompts into full
 📱 Responsive design output
 
 ## 🛠 Tech Stack
-Frontend
+ ### Frontend
 
 Next.js (App Router)
 
@@ -27,7 +27,7 @@ React
 
 Tailwind CSS
 
-Backend
+### Backend
 
 FastAPI
 
@@ -35,7 +35,7 @@ Python
 
 Ollama (LLM runtime)
 
-AI Model
+### AI Model
 
 qwen2.5:1.5b (lightweight, fast, local)
 
